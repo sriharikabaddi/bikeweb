@@ -1,0 +1,24 @@
+.news-background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    width: 100vh;
+    background-size: cover;
+}
+
+.news-card {
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 10px;
+}
+
+.news-head1 {
+    font-style: normal;
+    font-family: fantasy;
+    color: gray;
+}
+
+.news-head2 {
+    font-style: bold;
+    color: black;
+}
